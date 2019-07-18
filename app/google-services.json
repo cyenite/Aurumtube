@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "997610501213",
+    "firebase_url": "https://aurumtube-ef3c2.firebaseio.com",
+    "project_id": "aurumtube-ef3c2",
+    "storage_bucket": "aurumtube-ef3c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997610501213:android:a27ee366d80e0721",
+        "android_client_info": {
+          "package_name": "com.aurumtech.aurumtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997610501213-trm5g4l46kujb7ct1lrc2cttcrhj5raf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEHv2GgHZfNvXLq8kl--CmbxkXnFqHUT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997610501213-trm5g4l46kujb7ct1lrc2cttcrhj5raf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
